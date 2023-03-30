@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269717629432",
+    "project_id": "store-mo714",
+    "storage_bucket": "store-mo714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269717629432:android:3b619d3ef78e81e8534e0d",
+        "android_client_info": {
+          "package_name": "com.alamoudiSoft.market_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269717629432-ur39r8pbi7vruh48j6059ri9ursjgtlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4x3rqNBQrQUTd8_cboSJylRXlDogkOUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269717629432-ur39r8pbi7vruh48j6059ri9ursjgtlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
